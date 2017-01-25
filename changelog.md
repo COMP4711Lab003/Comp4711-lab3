@@ -1,8 +1,12 @@
 #Change Log
 
-Team membership:   Junfeng Liao(Captain) & Wang Jia Yin (Mate) 
+Team membership:   Junfeng Liao(Captain) & Jimmy Wang(Mate) 
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
+## *Version 1.1 *
+Release Date Jan 24
+-   Conversion to trivial website
 
 ## *Version 1.0 *
 Release Date Jan 24
